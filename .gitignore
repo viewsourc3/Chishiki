@@ -2,3 +2,6 @@
 .DS_Store
 .Rhistory
 *.history
+*.json
+.obsidian/workspace
+posts/.obsidian/workspace
