@@ -9,7 +9,7 @@ This post is primarly for the non-tech saavy, in the hope that they will have a 
 
 #### GPG stands for "Pretty Good Privacy". 
 ... and GPG, or GnuPG (GNU Privacy Guard), is one of the implementations of the PGP standard, and is a strong alternative to the official PGP software.
-In other words, GPG is PGP.
+In other words, GPG is PGP. I'll be using them 
 
 #### What is it? 
 First, let me tell you what it is *not*. 
@@ -23,7 +23,7 @@ PGP fixes this. In this analogy, PGP is a box. Not with one, but two locks; each
 If you were to send a private message, you'd tell your friend to get a box with these two locks. Your friend would send you that box along with the public key. You'd put the message in the box, lock it with the public key and send it away. Your friend would then be the only one to be able to open the box, as they are the only one to have the private key.
 
 
-### Why would you want to use PGP/GPG ? 
+### Why would you want to use it ? 
 
 First, let me tell you what 'traditional' emails *don't* do.
 
@@ -41,5 +41,6 @@ PGP/GPG allows for data encryption and signing, which solve all three issues I m
 I don’t quite know. My take is that most people aren't concerned about their online privacy enough. It's not a feature set by default in any email service I know of, so no one knows about it. Maybe it is perceived as too difficult to use?
 However, it’s not really difficult to get started with, and when you are up and running, it is really easy to use.
 
-### How can you install PGP.
-check again soon.
+### How can you install GPG.
+
+The Free Software Foundation has made a pretty clear [step by step guide](https://emailselfdefense.fsf.org/en/index.html) to make your keys and test out your encrypted email.
