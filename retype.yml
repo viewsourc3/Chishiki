@@ -1,11 +1,22 @@
 input: .
 output: .retype
 url: chishiki.slim.page
+
 branding:
-  title: home:~$
-  label:
+ title: home:~$
+  
 links:
-# - text: Getting started
-#  link: https://retype.com/guides/getting-started/
+ - text: Home
+   link: https://slim.page
+   icon: home
+   
+ - text: Linkedin 
+   link: linkedin 
+   icon: code-of-conduct
+   
+ - text: mail
+   link: mailto:me@slim.page
+   icon: mail
+    
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
