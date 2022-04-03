@@ -1,4 +1,7 @@
-# man
+---
+order: 1999
+
+---
 
 Below you will find a few notes on the structure of this blog and the philosophy behind it.&#x20;
 

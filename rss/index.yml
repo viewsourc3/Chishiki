@@ -1,6 +1,6 @@
-\---
+---
 label: blog
 icon: gear
-layout: page
 order: 100
-\---
+expanded:true
+---

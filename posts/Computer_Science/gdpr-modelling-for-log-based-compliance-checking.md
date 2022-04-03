@@ -1,0 +1,10 @@
+---
+label: GDPR modelling for log based compliance checking
+
+---
+
+This is about a work we have carried out at CEA in 2018-2019. The goal was to translate legal rules into a logic programming language to perform compliance checking through logs.
+
+**Abstract**: Since the entry into force of the General Data Protection Regulation (GDPR), public and private organizations face unprecedented challenges to ensure compliance with new data protection rules. To help its implementation, academics and technologists proposed innovative solutions, leading to what is known today as privacy engineering. Among the main goals of these solutions are to enable compliant data processing by controllers and to increase trust in compliance by data subjects. While data protection by design (Article 25 of GDPR) constitutes a keystone of the regulation, many legacy systems are not designed and implemented with this concept in mind, but still process large quantities of personal data. Consequently, there is a need for “after design” ways to check compliance and remediate the data protection issues. In this paper, we suggest monitoring and checking the compliance of legacy systems through logs. To this end, we modelled a core subset of the GDPR in the Prolog language. The approach we followed produced an operational model of the GDPR which eases the interactions with standard operational models of Information Technology (IT) systems. Different dimensions required to properly address data protection obligations have been covered, and in particular time-related properties such as retention time. The logic-based GDPR model has also been kept as close as possible to the legal wording to allow a Data Protection Officer to explore the model in case of need. Finally, even if we don’t have a completed tool yet, we created a proof-of-concept framework to use the GDPR model to detect data protection compliance violations by monitoring the IT system logs.
+
+Published in [IFIPTM 2019: Trust Management XIII](https://link.springer.com/book/10.1007/978-3-030-33716-2) pp 1–18

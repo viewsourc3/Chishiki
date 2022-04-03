@@ -1,4 +1,4 @@
-input: .
+input: ./posts
 output: .retype
 url: chishiki.slim.page
 
@@ -7,7 +7,7 @@ branding:
   
 links:
  - text: Home
-   link: https://slim.page
+   link: https://chishiki.slim.page
    icon: home
    
  - text: Linkedin 

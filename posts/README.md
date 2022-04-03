@@ -1,3 +1,8 @@
+---
+order: 2000
+icon: home 
+---
+
 # README
 
 In the fall 2019, I was encouraged by [Drew Devault](https://github.com/ddevault) to make my own blog. He wanted to see more people writing about their passions and thoughts, in a permanent way and through a public medium.
