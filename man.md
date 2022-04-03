@@ -10,7 +10,7 @@ Most blogs I see are organized chronologically. This can make them confusing and
 
 With this in mind, I decided that I'd much rather organize my blog like a manual page or a book - with "chapters" and "subchapters". Hence, this blog is organized by topics I am interested in.
 
-Each folder in the left panel refers to a topic. Each subpage is related to the parent topic. A summary of all the pages can be found [here](SUMMARY.md).
+Each folder in the left panel refers to a topic. Each subpage is related to the parent topic. 
 
 I try to structure things so everyone can find them and benefit from reading them easily and quickly.
 
