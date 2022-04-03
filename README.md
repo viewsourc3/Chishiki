@@ -12,4 +12,4 @@ If it's your first time browsing my blog, you can find more about it [here](man.
 
 
 
-_<mark style="color:blue;">Thoughts written here are my own and don't reflect any of my past, present or future employer's position. This blog and all articles are licensed under the</mark> _ [_<mark style="color:blue;">CC BY-SA 4.0 International License</mark>_](http://creativecommons.org/licenses/by-sa/4.0/)_<mark style="color:blue;">.</mark> _&#x20;
+_<mark style="color:blue;">Thoughts written here are my own and don't reflect any of my past, present or future employer's position. This blog and all articles are licensed under the</mark> [_<mark style="color:blue;">CC BY-SA 4.0 International License</mark>_](http://creativecommons.org/licenses/by-sa/4.0/)_<mark style="color:blue;">.</mark>
