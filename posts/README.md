@@ -7,13 +7,15 @@ icon: home
 
 In the fall 2019, I was encouraged by [Drew Devault](https://github.com/ddevault) to make my own blog. He wanted to see more people writing about their passions and thoughts, in a permanent way and through a public medium.
 
-I was one of the 50-or-so people who jumped onboard and gave it a try. However, after one blog post, I realized it was going to be a lot more difficult than I had anticipated. What should I write about? How often? What if no one reads it? What if someone does? What if they aren't interested? But most of all, why would I write a blog?
+I was one of the 50-or-so people who jumped onboard and gave it a try. However, after one blog post, I realized it was going to be a lot more difficult than I had anticipated. What should I write about? How often? What if no one reads it? What if someone **does**?
 
-It also turns out overthinking is the best way of not getting anything done.
+It also turns out overthinking is the best way for not getting anything done.
 
 So there it is! This blog will be dedicated to writing about tech stuff, things I'm interested in, personal reflections, side projects, personal references, and other subjects I may be interested about.
 
-If it's your first time browsing my blog, you can find more about it [here](man.md), as it describes this wiki's structure and philosophy.
+Chishiki, 「知識, ちしき」, is a japanese word for "knowledge". It is relevant to how I consider this blog: a form of personal knowledge base, inspired by the trend of [digital gardens](https://www.danielsieger.com/blog/2021/05/30/digital-gardens.html), for connecting ideas and thoughts. It is also a way to sharing them with my close-ones and not-so-close-ones and complete strangers. 
+
+If it's your first time browsing this wiki, you can find more about it [here](man.md), as it describes its structure and philosophy.
 
 
 

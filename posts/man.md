@@ -23,6 +23,4 @@ If you find any mistake, especially if something is plain wrong, you can fork th
 
 ### Content and philosophy
 
-Each topic should have a title, and at least some minor description if it grows over a certain amount of posts.
-
 This blog contains thoughts on topics that I find interesting or that I am curious about, as well as knowledge and references to resources or links I have liked or used that helped me understand the topic or gain appreciation of it.
