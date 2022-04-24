@@ -57,12 +57,12 @@ I am asked to follow 4 protocols (2, 3, 10 and 15), which will be detailed in th
 
 ### Useful links.
 
-[The Blob: a cell that learns](https://www.youtube.com/watch?v=Dwcx6yCdDE8). (Youtube, CNRS)
+- [The Blob: a cell that learns](https://www.youtube.com/watch?v=Dwcx6yCdDE8). (Youtube, CNRS)
 
-[How this Blob solves mazes](https://www.youtube.com/watch?v=7YWbY7kWesI) (Youtube, Wired)
+- [How this Blob solves mazes](https://www.youtube.com/watch?v=7YWbY7kWesI) (Youtube, Wired)
 
-[Fungal intelligence: Lead the way to improved technological systems](https://www.youtube.com/watch?v=7YWbY7kWesI) (Youtube, Brian Roemmele)
+- [Fungal intelligence: Lead the way to improved technological systems](https://www.youtube.com/watch?v=7YWbY7kWesI) (Youtube, Brian Roemmele)
 
-[Human biology adaptability](https://www2.palomar.edu/anthro/adapt/)
+- [Human biology adaptability](https://www2.palomar.edu/anthro/adapt/)
 
-[Abrupt Climate Change: Inevitable Surprises (National Academies of Sciences, Engineering, and Medicine. 2002)](https://nap.nationalacademies.org/read/10136/chapter/3)
+- [Abrupt Climate Change: Inevitable Surprises (National Academies of Sciences, Engineering, and Medicine. 2002)](https://nap.nationalacademies.org/read/10136/chapter/3)
