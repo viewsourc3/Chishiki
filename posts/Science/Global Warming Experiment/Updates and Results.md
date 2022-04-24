@@ -24,7 +24,9 @@ order: 800
   
 
   Temperature in the Ctrl_box is : 20.1ºC
+  
   Temperature in the Exp_box is : 19.7ºC
+  
   Time : 15:33
 
   
@@ -33,7 +35,7 @@ order: 800
 
   
 
-  ![Sclerotium](https://chishiki.slim.page/science/global-warming-experiment/Source/IMG/Wake/00_01.jpeg)
+  ![Sclerotium](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg)
   ![Sclerotium in control dish, with oatmeal](https://chishiki.slim.page/science/global-warming-experiment/Source/IMG/Wake/ctrl_d01.png)
   ![Sclerotium in experiment dish, with oatmeal](https://chishiki.slim.page/science/global-warming-experiment/Source/IMG/Wake/exp_d01.png)
 
@@ -45,11 +47,14 @@ order: 800
   
 
   The colour is quite more vibrant! It's alive :) 
+  
   The first few pieces of oatmeal are covered. 
 
   Temperature in the Ctrl_box is : 21.0ºC
+  
   Temperature in the Exp_box is : 20.9ºC
-  Time : 15:45
+ 
+ Time : 15:45
 
   
 
