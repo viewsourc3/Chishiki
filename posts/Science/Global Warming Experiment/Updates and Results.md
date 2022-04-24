@@ -7,7 +7,7 @@ order: 800
 
 +++ Waking up the Blob
 
-## Day 1.  2022.04.23, saturday.
+#### Day 1.  2022.04.23, saturday.
 
 - Steps. 
 1. Take out two boxes from the Petri refrigerator: control box no. 1 and experimental box no. 1.
@@ -28,17 +28,20 @@ order: 800
 
 - Pictures.
 <figure>
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg" width="735" height="980">
-<figcaption>Sclerotium as delivered through the mail.</figcaption>
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg" width="740">
+<figcaption><center><i>Sclerotium as delivered through the mail.</i></center></figcaption>
+
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/ctrl_d01.png" width="740">
+<figcaption><center><i>Sclerotium as delivered through the mail.</i></center></figcaption>
+
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/exp_d01.png" width="740">
+<figcaption><center><i>Sclerotium as delivered through the mail.</i></center></figcaption>
+
 </figure>
 
 
-  ![Sclerotium](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg)
-  ![Sclerotium in control dish, with oatmeal](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/ctrl_d01.png)
-  ![Sclerotium in experiment dish, with oatmeal](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/exp_d01.png)
 
-
-## Day 2. 2022.04.24, sunday.
+#### Day 2. 2022.04.24, sunday.
 
 - Notes. 
 
