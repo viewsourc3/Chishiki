@@ -1,7 +1,7 @@
 ---
 label: The Experiment
 order: 800
-visibility: hidden
+
 ---
 
 ## Waking up the Blob
