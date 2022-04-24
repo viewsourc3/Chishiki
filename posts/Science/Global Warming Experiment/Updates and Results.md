@@ -33,9 +33,9 @@ order: 800
 
   
 
-  ![Sclerotium](/Users/cslm/Projects/Chishiki/posts/Science/Global Warming Experiment/Source/IMG/Wake/00_01.jpeg)
-  ![Sclerotium in control dish, with oatmeal](/Source/IMG/Wake/ctrl_d01.png)
-  ![Sclerotium in experiment dish, with oatmeal](/Source/IMG/Wake/exp_d01.png)
+  ![Sclerotium](https://chishiki.slim.page/science/global-warming-experiment/Source/IMG/Wake/00_01.jpeg)
+  ![Sclerotium in control dish, with oatmeal](https://chishiki.slim.page/science/global-warming-experiment/Source/IMG/Wake/ctrl_d01.png)
+  ![Sclerotium in experiment dish, with oatmeal](https://chishiki.slim.page/science/global-warming-experiment/Source/IMG/Wake/exp_d01.png)
 
 
 #### Day 2. 2022.04.24, sunday.
