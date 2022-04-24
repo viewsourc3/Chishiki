@@ -5,7 +5,7 @@ order: 800
 ---
 
 
-+++ Waking up the Blob +++
++++ Waking up the Blob
 
 ## Day 1.  2022.04.23, saturday.
 
@@ -25,7 +25,14 @@ order: 800
   - Temperature in the Exp_box is : 19.7ºC
   - Time : 15:33
 
+
 - Pictures.
+<figure>
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg" width="735" height="980">
+<figcaption>Sclerotium as delivered through the mail.</figcaption>
+</figure>
+
+
   ![Sclerotium](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg)
   ![Sclerotium in control dish, with oatmeal](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/ctrl_d01.png)
   ![Sclerotium in experiment dish, with oatmeal](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/exp_d01.png)
@@ -41,6 +48,7 @@ order: 800
   - Temperature in the Exp_box is : 20.9ºC
   - Time : 15:45
 
+
 - Steps. 
 
 Considering the oatmeal isn't covered by the blob, and as per instructions, I'll wait until tomorrow to transfert the blobs in the second Petri dish. 
@@ -49,3 +57,18 @@ Considering the oatmeal isn't covered by the blob, and as per instructions, I'll
 
 ![Sclerotium in control dish, with oatmeal](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/ctrl_d02.png)
 ![Sclerotium in experiment dish, with oatmeal](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/exp_d02.png)
+
+
+
+
++++ Protocol no.1
+
+Soon.
+
++++ Protocol no.2
+
+Soon. 
+
++++ Protocol no.3
+
+Soon.
