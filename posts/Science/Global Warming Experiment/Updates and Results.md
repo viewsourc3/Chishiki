@@ -16,7 +16,7 @@ The above tabs will allow to follow the progress of the different experimental p
 
 ##### Steps. 
 1. Take out two boxes from the Petri refrigerator: control box no. 1 and experimental box no. 1.
-2. Cut each sclerotium (4) is half.
+2. Cut each sclerotium (4) in half.
 3. Briefly dip each sclerotium (8) in a glass of water.
 4. Drain.
 5. Place each half of the sclerotium on the left half of the petri dish (one half in the control petri dish, the other half in the experiment petri dish).
@@ -87,3 +87,4 @@ Soon.
 
 +++ Protocol no.4
 
+Soon.
