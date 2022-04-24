@@ -6,7 +6,7 @@ order: 800
 
 ## Waking up the Blob
 
-#### Day 1.  2022.04.23, saturday.
+## Day 1.  2022.04.23, saturday.
 
 - Steps. 
 1. Take out two boxes from the Petri refrigerator: control box no. 1 and experimental box no. 1.
@@ -20,9 +20,9 @@ order: 800
 9. Read the temperature in both blob-houses (the values should be identical). 
 
 - Notes.
-Temperature in the Ctrl_box is : 20.1ºC
-Temperature in the Exp_box is : 19.7ºC
-Time : 15:33
+  - Temperature in the Ctrl_box is : 20.1ºC
+  - Temperature in the Exp_box is : 19.7ºC
+  - Time : 15:33
 
 - Pictures.
   ![Sclerotium](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg)
@@ -30,18 +30,21 @@ Time : 15:33
   ![Sclerotium in experiment dish, with oatmeal](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/exp_d01.png)
 
 
-#### Day 2. 2022.04.24, sunday.
+## Day 2. 2022.04.24, sunday.
 
 - Notes. 
-The colour is quite more vibrant! It's alive :) 
-The first few pieces of oatmeal are covered. 
-Temperature in the Ctrl_box is : 21.0ºC
-Temperature in the Exp_box is : 20.9ºC
-Time : 15:45
+
+  - The first few pieces of oatmeal are covered. 
+  - The colour is quite more vibrant! It's alive :) 
+  - Temperature in the Ctrl_box is : 21.0ºC
+  - Temperature in the Exp_box is : 20.9ºC
+  - Time : 15:45
 
 - Steps. 
+
 Considering the oatmeal isn't covered by the blob, and as per instructions, I'll wait until tomorrow to transfert the blobs in the second Petri dish. 
 
 - Pictures. 
+
 ![Sclerotium in control dish, with oatmeal](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/ctrl_d02.png)
 ![Sclerotium in experiment dish, with oatmeal](https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/exp_d02.png)
