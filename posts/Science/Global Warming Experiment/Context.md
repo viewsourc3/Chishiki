@@ -15,10 +15,9 @@ In this section, I will attempt to write about the fascinating "thing" that is t
 ## What is the Blob?
 
 <figure>
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Bannerblob.png" height="400">
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/BannerBlob.jpg">
 <figcaption><center><small><i>The Blob, at the Paris Zoo 2019, Credit Stéphane De Sakutin, AFP.</i></small></center></figcaption>
 </figure>
-
 
 Its scientific, "real" name is: Physarum polycephalum. Mostly know as the Blob, as a tribute to a [movie of the same name](https://www.youtube.com/watch?v=TdUsyXQ8Wrs) from 1958, it is a rather unique single-cell organism. 
 
