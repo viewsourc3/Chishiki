@@ -1,13 +1,15 @@
 ---
-label: The Experiment
+label: Updates and results
 order: 800
 
 ---
 
 +++ Waking up the Blob
 
-In this section, you can follow the waking up stage and early development of the blob. 
-Feel free to right click and open pictures in a new tab for full resolution.
+This section details the awakening stage and early development of the blob. The purpose of this stage is to "wake up" the blob, which was sent in the form of a sclerotium, and make it reach a significant size, before starting the experiment. 
+
+The above tabs will detail the progress of the different experimental protocols I'll be following.
+
 
 
 #### Day 1.  2022.04.23, saturday.
@@ -29,6 +31,8 @@ Feel free to right click and open pictures in a new tab for full resolution.
   - Temperature in the Exp_box is : 19.7ºC
 
 ##### Pictures.
+Feel free to right click and open pictures in a new tab for full resolution.
+
 <figure>
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg" width="740">
@@ -58,6 +62,7 @@ Feel free to right click and open pictures in a new tab for full resolution.
 Considering the oatmeal isn't covered by the blob, and as per instructions, I'll wait until tomorrow to transfert the blobs in the second Petri dish. 
 
 ##### Pictures. 
+Feel free to right click and open pictures in a new tab for full resolution.
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/ctrl_d02.png" width="740">
 <figcaption><center><small><i>Day 2, control dish.</I></small></center></figcaption>
