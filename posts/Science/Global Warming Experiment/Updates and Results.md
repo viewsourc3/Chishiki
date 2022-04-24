@@ -8,11 +8,11 @@ order: 800
 
 This section details the awakening stage and early development of the blob. The purpose of this stage is to "wake up" the blob, which was sent in the form of a sclerotium, and make it reach a significant size, before starting the experiment. 
 
-The above tabs will detail the progress of the different experimental protocols I'll be following.
+The above tabs will allow to follow the progress of the different experimental protocols I'll be following.
 
 
 
-#### Day 1.  2022.04.23, saturday.
+### Day 1.  2022.04.23, saturday.
 
 ##### Steps. 
 1. Take out two boxes from the Petri refrigerator: control box no. 1 and experimental box no. 1.
@@ -31,7 +31,7 @@ The above tabs will detail the progress of the different experimental protocols 
   - Temperature in the Exp_box is : 19.7ºC
 
 ##### Pictures.
-Feel free to right click and open pictures in a new tab for full resolution.
+<small>Feel free to right click and open pictures in a new tab for full resolution.</small>
 
 <figure>
 
@@ -48,12 +48,12 @@ Feel free to right click and open pictures in a new tab for full resolution.
 
 
 
-#### Day 2. 2022.04.24, sunday.
+### Day 2. 2022.04.24, sunday.
 
 ##### Notes. 
   - Time : 15:45
   - The first few pieces of oatmeal are covered. 
-  - The colour is quite more vibrant! It's alive :) 
+  - The colour is quite more vibrant. Connections has been made between the pieces of blob. It's alive :) 
   - Temperature in the Ctrl_box is : 21.0ºC
   - Temperature in the Exp_box is : 20.9ºC
 
@@ -62,7 +62,7 @@ Feel free to right click and open pictures in a new tab for full resolution.
 Considering the oatmeal isn't covered by the blob, and as per instructions, I'll wait until tomorrow to transfert the blobs in the second Petri dish. 
 
 ##### Pictures. 
-Feel free to right click and open pictures in a new tab for full resolution.
+<small>Feel free to right click and open pictures in a new tab for full resolution.</small>
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/ctrl_d02.png" width="740">
 <figcaption><center><small><i>Day 2, control dish.</I></small></center></figcaption>
@@ -84,3 +84,6 @@ Soon.
 +++ Protocol no.3
 
 Soon.
+
++++ Protocol no.4
+
