@@ -19,16 +19,16 @@ The above tabs will allow to follow the progress of the different experimental p
 2. Cut each sclerotium (4) in half.
 3. Briefly dip each sclerotium (8) in a glass of water.
 4. Drain.
-5. Place each half of the sclerotium on the left half of the petri dish (one half in the control petri dish, the other half in the experiment petri dish).
+5. Place each half of the sclerotium on the left half of the petri dish (one half in the petri dish Ctrl #1, the other half in the petri dish Exp #1).
 6. Fill the right side of each petri dish with the equivalent of one soda bottle cap of oatmeal (the cap should be full but the flakes should not stick out).
 7. Take a photo so that you can later measure the size of the sclerotia (not all volunteers will have sclerotia of exactly the same size).
 8. Place the two petri dishes in the blob-house.
 9. Read the temperature in both blob-houses (the values should be identical). 
 
 ##### Notes.
-  - Time : 15:33
-  - Temperature in the Ctrl_box is : 20.1ºC
-  - Temperature in the Exp_box is : 19.7ºC
+  - Time : 3:33pm
+  - Temperature in the Ctrl #1 is : 20.1ºC
+  - Temperature in the Exp #1 is : 19.7ºC
 
 ##### Pictures.
 <small>Feel free to right click and open pictures in a new tab for full resolution.</small>
@@ -38,10 +38,10 @@ The above tabs will allow to follow the progress of the different experimental p
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg" width="740">
 <figcaption><center><small><i>Sclerotium as delivered through the mail.</i></small></center></figcaption>
 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/ctrl_d01.png" width="740">
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d01_ctrl.png" width="740">
 <figcaption><center><small><i>Sclerotium (left) and oatmeal (right) in the control dish.</i></small></center></figcaption>
 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/exp_d01.png" width="740">
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d01_exp.png" width="740">
 <figcaption><center><small><i>Sclerotium (left) and oatmeal (right) in the experiment dish.</i></small></center></figcaption>
 
 </figure>
@@ -51,11 +51,11 @@ The above tabs will allow to follow the progress of the different experimental p
 ### Day 2. 2022.04.24, sunday.
 
 ##### Notes. 
-  - Time : 15:45
+  - Time : 3:45pm
   - The first few pieces of oatmeal are covered. 
   - The colour is quite more vibrant. Connections has been made between the pieces of blob. It's alive :) 
-  - Temperature in the Ctrl_box is : 21.0ºC
-  - Temperature in the Exp_box is : 20.9ºC
+  - Temperature in the Ctrl #1 is : 21.0ºC
+  - Temperature in the Exp #1 is : 20.9ºC
 
 ##### Steps. 
 
@@ -64,13 +64,44 @@ Considering the oatmeal isn't covered by the blob, and as per instructions, I'll
 ##### Pictures. 
 <small>Feel free to right click and open pictures in a new tab for full resolution.</small>
 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/ctrl_d02.png" width="740">
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d02_ctrl.png" width="740">
 <figcaption><center><small><i>Day 2, control dish.</I></small></center></figcaption>
 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/exp_d02.png" width="740">
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d02_exp.png" width="740">
 <figcaption><center><small><i>Day 2, experiment dish.</i></small></center></figcaption>
 
 
+
+### Day 3. 2022.04.25, monday.
+
+##### Notes. 
+
+  - Time : 6:30am
+  - Little change in development. 
+  - Temperature in the Ctrl #1 is : 19.7ºC
+  - Temperature in the Exp #1 is : 19.9ºC
+
+##### Steps. 
+
+1. For both petri dish, separate the blob in two, keeping only the new/awaken part, and disregarding the other one which is still on the paper as well as the old oatmeal. 
+2. Transfer the remainder in a new petri dish (#3). 
+3. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
+<figcaption><center><small><i>Step 1 and 2.</i></small></center></figcaption>
+
+
+##### Pictures. 
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_00.png" width="370">
+<figcaption><center><small><i>Day 3, control dish before steps.</I></small></center></figcaption>
+
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_exp_00.png" width="740">
+<figcaption><center><small><i>Day 3, experiment dish before steps.</i></small></center></figcaption>
+
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_01.png" width="370">
+<figcaption><center><small><i>Day 3, control dish after steps.</I></small></center></figcaption>
+
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_exp_01.png" width="740">
+<figcaption><center><small><i>Day 3, experiment dish after steps.</i></small></center></figcaption>
 
 
 +++ Protocol no.1
