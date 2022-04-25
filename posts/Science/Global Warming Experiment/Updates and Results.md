@@ -91,17 +91,12 @@ Considering the oatmeal isn't covered by the blob, and as per instructions, I'll
 
 
 ##### Pictures. 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_00.png" width="370"  align="left">
-<figcaption><center><small><i>Day 3, control dish before steps.</I></small></center></figcaption>
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_exp_00.png" width="370">
+<figcaption><center><small><i>Day 3, Ctrl and Exp dish before steps.</I></small></center></figcaption>
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_exp_01.png" width="370">
+<img 
+<figcaption><center><small><i>Day 3, Ctrl and Exp dish after steps.</I></small></center></figcaption>
 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_01.png" width="370"  align="left">
-<figcaption><center><small><i>Day 3, control dish after steps.</I></small></center></figcaption>
-
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_exp_00.png" width="370"  align="left">
-<figcaption><center><small><i>Day 3, experiment dish before steps.</i></small></center></figcaption>
-
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_exp_01.png" width="370"  align="left">
-<figcaption><center><small><i>Day 3, experiment dish after steps.</i></small></center></figcaption>
 
 
 +++ Protocol no.1
