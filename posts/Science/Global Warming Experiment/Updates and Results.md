@@ -98,6 +98,12 @@ Considering the oatmeal isn't covered by the blob, and as per instructions, I'll
 
 
 
+
+
+### Links
+
+[Awakening stage protocol](https://www.cnrs.fr/sites/default/files/download-file/Re%CC%81veil_et_croissance.pdf) (CNRS)
+
 +++ Protocol no.1
 
 Soon.
