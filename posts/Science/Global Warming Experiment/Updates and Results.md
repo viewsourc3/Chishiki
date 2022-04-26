@@ -37,13 +37,13 @@ The above tabs will allow to follow the progress of the different experimental p
 
 <figure>
 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg" width="740">
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg" width="375">
 <figcaption><center><small><i>Sclerotium as delivered through the mail.</i></small></center></figcaption>
 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d01_ctrl.png" width="740">
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d01_ctrl.png" height="370">
 <figcaption><center><small><i>Sclerotium (left) and oatmeal (right) in the control dish.</i></small></center></figcaption>
 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d01_exp.png" width="740">
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d01_exp.png"  height="370">
 <figcaption><center><small><i>Sclerotium (left) and oatmeal (right) in the experiment dish.</i></small></center></figcaption>
 
 </figure>
@@ -52,10 +52,10 @@ The above tabs will allow to follow the progress of the different experimental p
 
 ### Day 2. 2022.04.24, sunday. 3:45pm
 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d02_ctrl.png" width="740">
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d02_ctrl.png"  height="370">
 <figcaption><center><small><i>Day 2, control dish Ctrl #1.</I></small></center></figcaption>
 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d02_exp.png" width="740">
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d02_exp.png"  height="370">
 <figcaption><center><small><i>Day 2, experiment dish Exp #1.</i></small></center></figcaption>
 
 ##### Notes. 
