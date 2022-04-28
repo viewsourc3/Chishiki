@@ -6,20 +6,30 @@ order: 800
 
 +++ Waking up the Blob
 
-This section details the awakening stage and early development of the blob. The purpose of this stage is to "wake up" the blob, which was sent in the form of a sclerotium, make it reach a significant size, while multiplying it over 8 petri dishes (4 ctrl and 4 exp dishes). 
+This section details the awakening stage and early development of the blob. The purpose of this stage is to "wake up" the blob, which was sent in the form of a sclerotium, and make it reach a significant size in order to duplicate it over 8 petri dishes. This, because the protocol requires the volunteers to run the experiments over 4 control blobs and compare the results to 4 experimental blobs.
+
+The above tabs will allow to follow the progress of the different experimental protocols I'll be following, in due time.
+
+I have been attributed a strain of blob called Badhamia Utricularis, which are mostly slow compared to Physarum Polycephalum, especially in the wake up phase. This stage should typically be done over the course of a week, but I expect it to last around 10 days. It should not be tedious, as it mainly consists playing the waiting game while ensuring the blob doesn't show any sign of mold.
 
 Instructions for this stage can be found [here](https://www.cnrs.fr/sites/default/files/download-file/Re%CC%81veil_et_croissance.pdf) (CNRS, french).
 
 Feel free to right click and open pictures in a new tab for full resolution.
+<br/><br/>
+<br/><br/>
 
-The above tabs will allow to follow the progress of the different experimental protocols I'll be following.
+## preliminary steps. 
+To ensure the highest reliability and reproducibility of results, all volunteers must follow identical waking and rearing conditions. 
 
+This implies making sure we all have an identical experimental space and use the same equipment. I will not detail these prerequisites. They can be found [here](https://www.cnrs.fr/sites/default/files/download-file/Preparatifs.pdf) (environment, CNRS, French) and [here](https://www.cnrs.fr/sites/default/files/download-file/BlobCNRS_ListeDuMateriel_7.pdf) (equipment, CNRS, French).
+<br/><br/>
+<br/><br/>
 
 
 ## Day 1.  2022.04.23, saturday. 3:30pm.
 
 #### Steps. 
-1. Take out two boxes from the Petri refrigerator: control box no. 1 and experimental box no. 1.
+1. Take out two petri boxes from the refrigerator: control box no. 1 and experimental box no. 1.
 2. Cut each sclerotium (4) in half.
 3. Briefly dip each sclerotium (8) in a glass of water.
 4. Drain.
@@ -38,25 +48,25 @@ The above tabs will allow to follow the progress of the different experimental p
 <figure>
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/00_01.jpeg" width="370">
-<figcaption><center><small><i>Sclerotium as delivered through the mail.</i></small></center></figcaption>
+<figcaption><small><i>Sclerotium as delivered through the mail.</i></small></figcaption>
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d01_ctrl.png" width="370">
-<figcaption><center><small><i>Sclerotium (left) and oatmeal (right) in the control dish.</i></small></center></figcaption>
+<figcaption><small><i>Sclerotium (left) and oatmeal (right) in the control dish.</i></small></figcaption>
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d01_exp.png" width="370">
-<figcaption><center><small><i>Sclerotium (left) and oatmeal (right) in the experiment dish.</i></small></center></figcaption>
+<figcaption><small><i>Sclerotium (left) and oatmeal (right) in the experiment dish.</i></small></figcaption>
 
 </figure>
-
-
+<br/><br/>
+<br/><br/>
 
 ## Day 2. 2022.04.24, sunday. 3:45pm
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d02_ctrl.png" width="370">
-<figcaption><center><small><i>Day 2, control dish Ctrl #1.</I></small></center></figcaption>
+<figcaption><small><i>Day 2, control dish Ctrl #1.</I></small></figcaption>
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d02_exp.png" width="370">
-<figcaption><center><small><i>Day 2, experiment dish Exp #1.</i></small></center></figcaption>
+<figcaption><small><i>Day 2, experiment dish Exp #1.</i></small></figcaption>
 
 #### Notes. 
   - The first few pieces of oatmeal are covered. 
@@ -66,13 +76,14 @@ The above tabs will allow to follow the progress of the different experimental p
 
 #### Steps. 
 Considering the oatmeal isn't covered by the blob, and as per instructions, I'll give it more time before transfering it to a new petri dish. 
-
+<br/><br/>
+<br/><br/>
 
 
 ## Day 3. 2022.04.25, monday. 6:30am
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_exp_00.png" width="740">
-<figcaption><center><small><i>Day 3, Ctrl and Exp dish before steps.</I></small></center></figcaption>
+<figcaption><small><i>Day 3, Ctrl and Exp dish before steps.</I></small></figcaption>
 
 #### Notes. 
   - Little change in development. 
@@ -82,21 +93,22 @@ Considering the oatmeal isn't covered by the blob, and as per instructions, I'll
 #### Steps. 
 1. For both petri dish, separate the blob in two along the H-B axis.
 2. Disregard the oldest part (on the left), as well as the oatmeal. 
-3. Transfer the new/awaken part (on the right) to the left side of a new petri dish (#3). 
+3. Transfer the newest/awaken part (on the right) to the left side of a new petri dish (#3). 
    <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
-   <figcaption><center><small><i>Steps 1 to 3.</i></small></center></figcaption>
+   <figcaption><small><i>Steps 1 to 3.</i></center></figcaption>
 4. Add oatmeal on the right side of petri dish #3. 
 5. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_exp_01.png" width="740">
-<figcaption><center><small><i>Day 3, Ctrl and Exp dish after steps.</I></small></center></figcaption>
-
+<figcaption><small><i>Day 3, Ctrl and Exp dish after steps.</I></small></figcaption>
+<br/><br/>
+<br/><br/>
 
 
 ## Day 4. 2022.04.26, Tuesday. 8:00pm.
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d04_ctrl_exp_00.png" width="740">
-<figcaption><center><small><i>Day 4, Ctrl and Exp dish before steps.</I></small></center></figcaption>
+<figcaption><small><i>Day 4, Ctrl and Exp dish before steps.</I></small></figcaption>
 
 #### Notes. 
 
@@ -111,21 +123,20 @@ Identical to yesterday.
 
 1. For both petri dish, separate the blob in two along the H-B axis.
 2. Disregard the oldest part (on the left), as well as the oatmeal. 
-3. Transfer the new/awaken part (on the right) to the left side of a new petri dish (#4). 
-   <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
-   <figcaption><center><small><i>Steps 1 to 3.</i></small></center></figcaption>
+3. Transfer the newest part (on the right) to the left side of a new petri dish (#4). 
 4. Add oatmeal on the right side of petri dish #4. I've tried to spread them more evenly.
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
+   <figcaption><small><i>Steps 1 to 4.</i></small></figcaption>
 5. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
-
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d04_ctrl_exp_01.png" width="740">
-<figcaption><center><small><i>Day 4, Ctrl and Exp dish after steps.</I></small></center></figcaption>
+<figcaption><small><i>Day 4, Ctrl and Exp dish after steps.</I></small></figcaption>
 
 
 
 ## Day 5. 2022.04.27, Wednesday. 7:30pm.
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d05_ctrl_exp_00.png" width="740">
-<figcaption><center><small><i>Day 5, Ctrl and Exp dish before steps.</I></small></center></figcaption>
+<figcaption><small><i>Day 5, Ctrl and Exp dish before steps.</I></small></figcaption>
 
 #### Notes. 
 
@@ -139,25 +150,27 @@ Identical to yesterday.
 
 1. For both petri dish, separate the blob in two along the H-B axis.
 2. Disregard the oldest part (on the left), as well as the oatmeal. 
-3. Transfer the new/awaken part (on the right) to the left side of a new petri dish (#5). 
-   <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
-   <figcaption><center><small><i>Steps 1 to 3.</i></small></center></figcaption>
+3. Transfer the newest part (on the right) to the left side of a new petri dish (#5). 
 4. Add oatmeal on the right side of petri dish #5. I've added less oatmeal this time, but more evenly spread to encourage expansion.
+   <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
+   <figcaption><small><i>Steps 1 to 4.</i></small></figcaption>
 5. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d05_ctrl_exp_01.png" width="740">
 <figcaption><center><small><i>Day 5, Ctrl and Exp dish after steps.</I></small></center></figcaption>
+<br/><br/>
+<br/><br/>
 
 
 ## Day 6. 2022.04.28, Thursday. 8:30pm.
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_ctrl_exp_00.png" width="740">
-<figcaption><center><small><i>Day 6, Ctrl and Exp dish before steps.</I></small></center></figcaption>
+<figcaption><small><i>Day 6, Ctrl and Exp dish before steps.</I></small></figcaption>
 
 #### Notes. 
 
   - The blob has fully covered the right half of both petri dish. 
-  - It seems like less oatmeal, but spread more evenly do encourage growth (which makes sense since the blob need to search for food by moving further) 
+  - It seems like less and more evenly spread oatmeal do encourage growth (which makes sense since the blob need to search for food by moving further) 
   - Temperature in the Ctrl #4 is : 19.7ºC
   - Temperature in the Exp #4 is : 19.6ºC
 
@@ -167,13 +180,15 @@ It is now time to duplicate the blob!
 
 1. For both petri dish, separate the blob in two along the H-B axis.
 2. Place the oldest part (on the left), in a new petri dish (#7). 
-3. Transfer the new/awaken part (on the right) to the left side of a new petri dish (#8). 
-   <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_procedure.png" width="740">
-   <figcaption><center><small><i>Steps 1 to 3.</i></small></center></figcaption>
+3. Transfer the newest part (on the right) to the left side of a new petri dish (#8). 
 4. Add oatmeal on the right side of petri dish #7 & 8.
+5.    <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_procedure.png" width="740">
+   <figcaption><center><small><i>Steps 1 to 4.</i></small></center></figcaption>
 
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d05_ctrl_exp_01.png" width="740">
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_ctrl_exp_01.png" width="740">
 <figcaption><center><small><i>Day 6, Ctrl and Exp dishes after steps.</I></small></center></figcaption>
+<br/><br/>
+<br/><br/>
 
 +++ Protocol no.1
 
