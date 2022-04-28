@@ -65,6 +65,8 @@ This implies making sure we all have an identical experimental space and use the
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d02_exp.png" width="370">
 <figcaption><small><i>Day 2, experiment dish Exp #1.</i></small></figcaption>
 
+
+
 #### Notes. 
   - The first few pieces of oatmeal are covered. 
   - The colour is quite more vibrant. Connections has been made between the pieces of blob. It's alive :) 
@@ -81,12 +83,17 @@ Considering the oatmeal isn't covered by the blob, and as per instructions, I'll
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_exp_00.png" width="740">
 <figcaption><small><i>Day 3, Ctrl and Exp dish before steps.</I></small></figcaption>
 
+
+
 #### Notes. 
   - Little change in development. 
   - Temperature in the Ctrl #3 is : 19.7ºC
   - Temperature in the Exp #3 is : 19.9ºC
 
 #### Steps. 
+
+As follows:
+
 1. For both petri dish, separate the blob in two along the H-B axis.
 
 2. Disregard the oldest part (on the left), as well as the oatmeal. 
@@ -138,6 +145,8 @@ Identical to yesterday.
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d05_ctrl_exp_00.png" width="740">
 <figcaption><small><i>Day 5, Ctrl and Exp dish before steps.</I></small></figcaption>
 
+
+
 #### Notes. 
 
   - Exp box is catching up. 
@@ -157,7 +166,7 @@ Identical to yesterday.
 5. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d05_ctrl_exp_01.png" width="740">
-<figcaption><center><small><i>Day 5, Ctrl and Exp dish after steps.</I></small></center></figcaption>
+<figcaption><small><i>Day 5, Ctrl and Exp dish after steps.</I></small></figcaption>
 <br/><br/>
 
 
@@ -165,6 +174,8 @@ Identical to yesterday.
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_ctrl_exp_00.png" width="740">
 <figcaption><small><i>Day 6, Ctrl and Exp dish before steps.</I></small></figcaption>
+
+
 
 #### Notes. 
 
@@ -178,10 +189,14 @@ Identical to yesterday.
 It is now time to duplicate the blob! 
 
 1. For both petri dish, separate the blob in two along the H-B axis.
+
 2. Place the oldest part (on the left), in a new petri dish (#7). 
+
 3. Transfer the newest part (on the right) to the left side of a new petri dish (#8). 
+
 4. Add oatmeal on the right side of petri dish #7 & 8.
-5.    <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_procedure.png" width="740">
+
+   <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_procedure.png" width="740">
    <figcaption><center><small><i>Steps 1 to 4.</i></small></center></figcaption>
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_ctrl_exp_01.png" width="740">
