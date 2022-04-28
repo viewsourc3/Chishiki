@@ -94,7 +94,6 @@ Considering the oatmeal isn't covered by the blob, and as per instructions, I'll
 2. Disregard the oldest part (on the left), as well as the oatmeal. 
 3. Transfer the newest/awaken part (on the right) to the left side of a new petri dish (#3). 
 4. Add oatmeal on the right side of petri dish #3. 
-
    <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
    <figcaption><small><i>Steps 1 to 4.</i></small></figcaption>
 
@@ -184,7 +183,6 @@ It is now time to duplicate the blob!
 2. Place the oldest part (on the left), in a new petri dish (#7). 
 3. Transfer the newest part (on the right) to the left side of a new petri dish (#8). 
 4. Add oatmeal on the right side of petri dish #7 & 8.
-
    <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_procedure.png" width="740">
    <figcaption><center><small><i>Steps 1 to 4.</i></small></center></figcaption>
 
