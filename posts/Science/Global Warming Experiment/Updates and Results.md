@@ -16,9 +16,9 @@ The above tabs will allow to follow the progress of the different experimental p
 
 
 
-### Day 1.  2022.04.23, saturday. 3:30pm.
+## Day 1.  2022.04.23, saturday. 3:30pm.
 
-##### Steps. 
+#### Steps. 
 1. Take out two boxes from the Petri refrigerator: control box no. 1 and experimental box no. 1.
 2. Cut each sclerotium (4) in half.
 3. Briefly dip each sclerotium (8) in a glass of water.
@@ -29,11 +29,11 @@ The above tabs will allow to follow the progress of the different experimental p
 8. Place the two petri dishes in the blob-house.
 9. Read the temperature in both blob-houses (the values should be identical). 
 
-##### Notes.
+#### Notes.
   - Temperature in the Ctrl #1 is : 20.1ºC
   - Temperature in the Exp #1 is : 19.7ºC
 
-##### Pictures.
+#### Pictures.
 
 <figure>
 
@@ -50,7 +50,7 @@ The above tabs will allow to follow the progress of the different experimental p
 
 
 
-### Day 2. 2022.04.24, sunday. 3:45pm
+## Day 2. 2022.04.24, sunday. 3:45pm
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d02_ctrl.png" width="370">
 <figcaption><center><small><i>Day 2, control dish Ctrl #1.</I></small></center></figcaption>
@@ -58,33 +58,33 @@ The above tabs will allow to follow the progress of the different experimental p
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d02_exp.png" width="370">
 <figcaption><center><small><i>Day 2, experiment dish Exp #1.</i></small></center></figcaption>
 
-##### Notes. 
+#### Notes. 
   - The first few pieces of oatmeal are covered. 
   - The colour is quite more vibrant. Connections has been made between the pieces of blob. It's alive :) 
   - Temperature in the Ctrl #2 is : 21.0ºC
   - Temperature in the Exp #2 is : 20.9ºC
 
-##### Steps. 
+#### Steps. 
 Considering the oatmeal isn't covered by the blob, and as per instructions, I'll give it more time before transfering it to a new petri dish. 
 
 
 
-### Day 3. 2022.04.25, monday. 6:30am
+## Day 3. 2022.04.25, monday. 6:30am
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_exp_00.png" width="740">
 <figcaption><center><small><i>Day 3, Ctrl and Exp dish before steps.</I></small></center></figcaption>
 
-##### Notes. 
+#### Notes. 
   - Little change in development. 
   - Temperature in the Ctrl #3 is : 19.7ºC
   - Temperature in the Exp #3 is : 19.9ºC
 
-##### Steps. 
+#### Steps. 
 1. For both petri dish, separate the blob in two along the H-B axis.
-2. Disregard the oldest part (on the left), including the paper as well as the oatmeal. 
+2. Disregard the oldest part (on the left), as well as the oatmeal. 
 3. Transfer the new/awaken part (on the right) to the left side of a new petri dish (#3). 
    <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
-   <figcaption><center><small><i>Step 2 and 3.</i></small></center></figcaption>
+   <figcaption><center><small><i>Steps 1 to 3.</i></small></center></figcaption>
 4. Add oatmeal on the right side of petri dish #3. 
 5. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
 
@@ -93,27 +93,27 @@ Considering the oatmeal isn't covered by the blob, and as per instructions, I'll
 
 
 
-### Day 4. 2022.04.26, Tuesday. 8:00pm.
+## Day 4. 2022.04.26, Tuesday. 8:00pm.
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d04_ctrl_exp_00.png" width="740">
 <figcaption><center><small><i>Day 4, Ctrl and Exp dish before steps.</I></small></center></figcaption>
 
-##### Notes. 
+#### Notes. 
 
   - I can notice some form of mold on the old agar base (left side of picture). I don't suppose this is an issue since the left part (the oldest part) of the petri dish must be thrown away during this stage.
   - Good progress overall! Even if the blob in the Exp box is still somewhat lazy... Perhaps I should spread the oatmeal over a larger area to promote growth. 
   - Temperature in the Ctrl #4 is : 19.4ºC
   - Temperature in the Exp #4 is : 19.5ºC
 
-##### Steps. 
+#### Steps. 
 
 Identical to yesterday.
 
 1. For both petri dish, separate the blob in two along the H-B axis.
-2. Disregard the oldest part (on the left), including the paper as well as the oatmeal. 
+2. Disregard the oldest part (on the left), as well as the oatmeal. 
 3. Transfer the new/awaken part (on the right) to the left side of a new petri dish (#4). 
    <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
-   <figcaption><center><small><i>Step 2 and 3.</i></small></center></figcaption>
+   <figcaption><center><small><i>Steps 1 to 3.</i></small></center></figcaption>
 4. Add oatmeal on the right side of petri dish #4. I've tried to spread them more evenly.
 5. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
 
@@ -122,26 +122,26 @@ Identical to yesterday.
 
 
 
-### Day 5. 2022.04.27, Wednesday. 7:30pm.
+## Day 5. 2022.04.27, Wednesday. 7:30pm.
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d05_ctrl_exp_00.png" width="740">
 <figcaption><center><small><i>Day 5, Ctrl and Exp dish before steps.</I></small></center></figcaption>
 
-##### Notes. 
+#### Notes. 
 
   - Exp box is catching up. 
   - Temperature in the Ctrl #4 is : 19.3ºC
   - Temperature in the Exp #4 is : 19.4ºC
 
-##### Steps. 
+#### Steps. 
 
 Identical to yesterday.
 
 1. For both petri dish, separate the blob in two along the H-B axis.
-2. Disregard the oldest part (on the left), including the paper as well as the oatmeal. 
+2. Disregard the oldest part (on the left), as well as the oatmeal. 
 3. Transfer the new/awaken part (on the right) to the left side of a new petri dish (#5). 
    <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
-   <figcaption><center><small><i>Step 2 and 3.</i></small></center></figcaption>
+   <figcaption><center><small><i>Steps 1 to 3.</i></small></center></figcaption>
 4. Add oatmeal on the right side of petri dish #5. I've added less oatmeal this time, but more evenly spread to encourage expansion.
 5. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
 
@@ -149,6 +149,31 @@ Identical to yesterday.
 <figcaption><center><small><i>Day 5, Ctrl and Exp dish after steps.</I></small></center></figcaption>
 
 
+## Day 6. 2022.04.28, Thursday. 8:30pm.
+
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_ctrl_exp_00.png" width="740">
+<figcaption><center><small><i>Day 6, Ctrl and Exp dish before steps.</I></small></center></figcaption>
+
+#### Notes. 
+
+  - The blob has fully covered the right half of both petri dish. 
+  - It seems like less oatmeal, but spread more evenly do encourage growth (which makes sense since the blob need to search for food by moving further) 
+  - Temperature in the Ctrl #4 is : 19.7ºC
+  - Temperature in the Exp #4 is : 19.6ºC
+
+#### Steps. 
+
+It is now time to duplicate the blob! 
+
+1. For both petri dish, separate the blob in two along the H-B axis.
+2. Place the oldest part (on the left), in a new petri dish (#7). 
+3. Transfer the new/awaken part (on the right) to the left side of a new petri dish (#8). 
+   <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_procedure.png" width="740">
+   <figcaption><center><small><i>Steps 1 to 3.</i></small></center></figcaption>
+4. Add oatmeal on the right side of petri dish #7 & 8.
+
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d05_ctrl_exp_01.png" width="740">
+<figcaption><center><small><i>Day 6, Ctrl and Exp dishes after steps.</I></small></center></figcaption>
 
 +++ Protocol no.1
 
