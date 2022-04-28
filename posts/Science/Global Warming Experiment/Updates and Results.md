@@ -111,7 +111,7 @@ Identical to yesterday.
 
 1. For both petri dish, separate the blob in two along the H-B axis.
 2. Disregard the oldest part (on the left), including the paper as well as the oatmeal. 
-3. Transfer the new/awaken part (on the right) to the left side of a new petri dish (#3). 
+3. Transfer the new/awaken part (on the right) to the left side of a new petri dish (#4). 
    <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
    <figcaption><center><small><i>Step 2 and 3.</i></small></center></figcaption>
 4. Add oatmeal on the right side of petri dish #4. I've tried to spread them more evenly.
@@ -121,6 +121,32 @@ Identical to yesterday.
 <figcaption><center><small><i>Day 4, Ctrl and Exp dish after steps.</I></small></center></figcaption>
 
 
+
+### Day 5. 2022.04.27, Wednesday. 7:30pm.
+
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d05_ctrl_exp_00.png" width="740">
+<figcaption><center><small><i>Day 5, Ctrl and Exp dish before steps.</I></small></center></figcaption>
+
+##### Notes. 
+
+  - Exp box is catching up. 
+  - Temperature in the Ctrl #4 is : 19.3ºC
+  - Temperature in the Exp #4 is : 19.4ºC
+
+##### Steps. 
+
+Identical to yesterday.
+
+1. For both petri dish, separate the blob in two along the H-B axis.
+2. Disregard the oldest part (on the left), including the paper as well as the oatmeal. 
+3. Transfer the new/awaken part (on the right) to the left side of a new petri dish (#5). 
+   <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
+   <figcaption><center><small><i>Step 2 and 3.</i></small></center></figcaption>
+4. Add oatmeal on the right side of petri dish #5. I've added less oatmeal this time, but more evenly spread to encourage expansion.
+5. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
+
+<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d05_ctrl_exp_01.png" width="740">
+<figcaption><center><small><i>Day 5, Ctrl and Exp dish after steps.</I></small></center></figcaption>
 
 
 
