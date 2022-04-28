@@ -16,13 +16,11 @@ Instructions for this stage can be found [here](https://www.cnrs.fr/sites/defaul
 
 Feel free to right click and open pictures in a new tab for full resolution.
 <br/><br/>
-<br/><br/>
 
 ## preliminary steps. 
 To ensure the highest reliability and reproducibility of results, all volunteers must follow identical waking and rearing conditions. 
 
 This implies making sure we all have an identical experimental space and use the same equipment. I will not detail these prerequisites. They can be found [here](https://www.cnrs.fr/sites/default/files/download-file/Preparatifs.pdf) (environment, CNRS, French) and [here](https://www.cnrs.fr/sites/default/files/download-file/BlobCNRS_ListeDuMateriel_7.pdf) (equipment, CNRS, French).
-<br/><br/>
 <br/><br/>
 
 
@@ -58,7 +56,6 @@ This implies making sure we all have an identical experimental space and use the
 
 </figure>
 <br/><br/>
-<br/><br/>
 
 ## Day 2. 2022.04.24, sunday. 3:45pm
 
@@ -77,7 +74,6 @@ This implies making sure we all have an identical experimental space and use the
 #### Steps. 
 Considering the oatmeal isn't covered by the blob, and as per instructions, I'll give it more time before transfering it to a new petri dish. 
 <br/><br/>
-<br/><br/>
 
 
 ## Day 3. 2022.04.25, monday. 6:30am
@@ -92,16 +88,20 @@ Considering the oatmeal isn't covered by the blob, and as per instructions, I'll
 
 #### Steps. 
 1. For both petri dish, separate the blob in two along the H-B axis.
+
 2. Disregard the oldest part (on the left), as well as the oatmeal. 
+
 3. Transfer the newest/awaken part (on the right) to the left side of a new petri dish (#3). 
-   <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
-   <figcaption><small><i>Steps 1 to 3.</i></center></figcaption>
+
 4. Add oatmeal on the right side of petri dish #3. 
+
+   <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
+   <figcaption><small><i>Steps 1 to 4.</i></small></figcaption>
+
 5. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_exp_01.png" width="740">
 <figcaption><small><i>Day 3, Ctrl and Exp dish after steps.</I></small></figcaption>
-<br/><br/>
 <br/><br/>
 
 
@@ -125,13 +125,13 @@ Identical to yesterday.
 2. Disregard the oldest part (on the left), as well as the oatmeal. 
 3. Transfer the newest part (on the right) to the left side of a new petri dish (#4). 
 4. Add oatmeal on the right side of petri dish #4. I've tried to spread them more evenly.
-<img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
+   <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
    <figcaption><small><i>Steps 1 to 4.</i></small></figcaption>
 5. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d04_ctrl_exp_01.png" width="740">
 <figcaption><small><i>Day 4, Ctrl and Exp dish after steps.</I></small></figcaption>
 
-
+<br/><br/>
 
 ## Day 5. 2022.04.27, Wednesday. 7:30pm.
 
@@ -158,7 +158,6 @@ Identical to yesterday.
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d05_ctrl_exp_01.png" width="740">
 <figcaption><center><small><i>Day 5, Ctrl and Exp dish after steps.</I></small></center></figcaption>
-<br/><br/>
 <br/><br/>
 
 
@@ -187,7 +186,6 @@ It is now time to duplicate the blob!
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_ctrl_exp_01.png" width="740">
 <figcaption><center><small><i>Day 6, Ctrl and Exp dishes after steps.</I></small></center></figcaption>
-<br/><br/>
 <br/><br/>
 
 +++ Protocol no.1
