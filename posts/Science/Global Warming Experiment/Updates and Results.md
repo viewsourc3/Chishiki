@@ -89,14 +89,12 @@ Considering the oatmeal isn't covered by the blob, and as per instructions, I'll
   - Temperature in the Exp #3 is : 19.9ºC
 
 #### Steps. 
-
 1. For both petri dish, separate the blob in two along the H-B axis.
-2. Disregard the oldest part (on the left), as well as the oatmeal. 
-3. Transfer the newest/awaken part (on the right) to the left side of a new petri dish (#3). 
+2. Disregard the oldest part (on the left), as well as the oatmeal.
+3. Transfer the newest/awaken part (on the right) to the left side of a new petri dish (#3).
 4. Add oatmeal on the right side of petri dish #3. 
    <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
    <figcaption><small><i>Steps 1 to 4.</i></small></figcaption>
-
 5. I have raised the temperature inside the box to roughly 22ºC to encourage growth. 
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_ctrl_exp_01.png" width="740">
