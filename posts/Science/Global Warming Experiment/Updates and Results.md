@@ -179,7 +179,7 @@ It is now time to duplicate the blob!
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d06_procedure.png" width="740">
    <figcaption><center><small><i>Steps 1 to 4.</i></small></center></figcaption>
-
+<br/><br/>
 
 ## Day 7. 2022.04.29, Friday. 8:30pm.
 
@@ -198,7 +198,7 @@ It is now time to re-duplicate the blob!
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d07_procedure.png" width="740">
    <figcaption><center><small><i>Steps 1 to 4.</i></small></center></figcaption>
-
+<br/><br/>
 
 ## Day 8. 2022.04.30, Friday. 3:00pm.
 
@@ -207,12 +207,14 @@ It is now time to re-duplicate the blob!
   - All 8 petri dishes are filled! 
   - Temperature in the blob-house is : 19.5ºC
 
+!!! :trophy-16:
 I have now reached the end of the wake/development stage, and will proceed to following the experiment protocols.
-
+!!!
+<br/><br/>
 
 ## In retrospect.
-- At the very beginning of the wake-up stage, instead of setting the pieces of sclerotium arbitrarly, it seems more efficient to display them on the same general line, close at an even distance to the oatmeal, instead of spreading them. I think this explains the difference in growth between the two blobs (see day 2 and day 3 pictures).
-- Warm temperature and less food do seem to encourage growth.
+- At the very beginning of the wake-up stage, instead of setting the pieces of sclerotium arbitrarly, it seems more efficient to spread them on the same general line, at an even distance to the oatmeal, instead of setting them arbitrarily (see day 2 and day 3 pictures). In the Ctrl dish, the four pieces of blob had 'direct' access to the oatmeal, while in the Exp dish, at least two pieces were further behind. I think this explains why the two blobs didn't reach the critical size at the same time.
+- Warm temperature (~20/22ºC) and less food do seem to encourage growth.
 
 
 +++ Protocol no.1
