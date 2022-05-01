@@ -151,7 +151,7 @@ Identical to yesterday.
 
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d03_procedure.png" width="740">
 <figcaption><small><i>Steps 1 to 4.</i></small></figcaption>
-   
+
 <img src="https://github.com/viewsourc3/Chishiki/raw/main/posts/Science/Global%20Warming%20Experiment/Source/IMG/Wake/d05_ctrl_exp_01.png" width="740">
 <figcaption><small><i>Day 5, Ctrl and Exp dish after steps.</i></small></figcaption>
 <br/><br/>
@@ -207,7 +207,7 @@ It is now time to re-duplicate the blob!
   - All 8 petri dishes are filled! 
   - Temperature in the blob-house is : 19.5ºC
 
-!!! :trophy-16:
+!!! :trophy:
 I have now reached the end of the wake/development stage, and will proceed to following the experiment protocols.
 !!!
 <br/><br/>
