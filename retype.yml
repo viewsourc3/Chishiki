@@ -2,6 +2,10 @@ input: ./posts
 output: .retype
 url: chishiki.slim.page
 
+integrations:
+  plausible:
+    domain: chishiki.slim.page
+
 branding:
  title: home:~$
   
