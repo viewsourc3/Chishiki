@@ -24,3 +24,8 @@ Each folder in the left panel refers to a topic. Each subpage is related to the 
 I try to structure things so everyone can find them and benefit from reading them easily and quickly.
 
 If you find any mistake, especially if something is plain wrong, you can fork this repository and make a push request with the correct changes. Alternatively, you can open an issue specifying what you think is wrong.
+
+### Analytics
+
+I use Plausible Analytics. Plausible.io is an open source, no cookie, GDPR complaints, powered by an European-owned and hosted cloud infrastructure. It does not make any connection to the adtech industry, nor does it do any cross-site/device tracking. Said simply, it is a privacy friendly Google Analytics alternative. 
+
