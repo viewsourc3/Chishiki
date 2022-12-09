@@ -23,7 +23,7 @@ Each folder in the left panel refers to a topic. Each subpage is related to the 
 
 I try to structure things so everyone can find them and benefit from reading them easily and quickly.
 
-If you find any mistake, especially if something is plain wrong, you can fork this repository and make a push request with the correct changes. Alternatively, you can open an issue specifying what you think is wrong.
+If you find any mistake, especially if something is plain wrong, you can fork this [repository](https://github.com/viewsourc3/Chishiki) and make a push request with the correct changes. Alternatively, you can open an issue specifying what you think is wrong.
 
 ### Analytics
 

@@ -5,7 +5,7 @@ icon: home
 
 # README
 
-In the fall 2019, I was encouraged by [Drew Devault](https://github.com/ddevault) to make my own blog. He wanted to see more people writing about their passions and thoughts, in a permanent way and through a public medium.
+I was encouraged by [Drew Devault](https://drewdevault.com) to make my own blog. He wanted to see more people writing about their passions and thoughts, in a permanent way and through a public medium.
 
 I was one of the 50-or-so people who jumped onboard and gave it a try. However, after one blog post, I realized it was going to be a lot more difficult than I had anticipated. What should I write about? How often? What if no one reads it? What if someone **does**?
 

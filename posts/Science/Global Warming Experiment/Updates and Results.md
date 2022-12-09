@@ -212,27 +212,7 @@ I have now reached the end of the wake/development stage, and will proceed to fo
 !!!
 <br/><br/>
 
-## In retrospect.
+## In retrospect
 - At the very beginning of the wake-up stage, instead of setting the pieces of sclerotium arbitrarly, it seems more efficient to spread them on the same general line, at an even distance to the oatmeal, instead of setting them arbitrarily (see day 2 and day 3 pictures). In the Ctrl dish, the four pieces of blob had 'direct' access to the oatmeal, while in the Exp dish, at least two pieces were further behind. I think this explains why the two blobs didn't reach the critical size at the same time.
+
 - Warm temperature (~20/22ºC) and less food do seem to encourage growth.
-
-
-+++ Protocol no.1
-
-Soon.
-
-+++ Protocol no.2
-
-Soon. 
-
-+++ Protocol no.3
-
-Soon.
-
-+++ Protocol no.4
-
-Soon.
-
-+++ Extra
-
-Soon.

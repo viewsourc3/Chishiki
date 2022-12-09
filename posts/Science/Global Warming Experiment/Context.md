@@ -54,6 +54,14 @@ I am asked to follow 4 protocols (no. 2, 3, 10 and 15), which will be detailed i
  - Five successive increases in temperature (over the course of 10 days)
 
 
+## Edit : August 2022 early update.
+
+Regretfully, I have not been able to follow the rigourous protocol. The months of july and august 2022 were been hit with several periods of heatwaves, which made it impossible to maintain a steady temperature in my appartment, as well as a controled rise of temperature in the petri dishes. 
+
+The global experience continued without me and I will share the results as soon as they are published. 
+Meanwhile, my blob is safely back to sleep, stored in an envelop, far from any disturbances. 
+
+
 ### Useful links.
 
   * [The Blob: a cell that learns](https://www.youtube.com/watch?v=Dwcx6yCdDE8). (Youtube, CNRS)
