@@ -3,17 +3,15 @@ title: What is PGP/GPG, why should you use it, and how.
 ---
 
 This post is primarly for the non-tech saavy, in the hope that they will have a better grasp of what PGP is, but also, perhaps, use it. 
- 
+
 
 ### ELI5 - What does PGP stand for and how does it work? 
 
 #### GPG stands for "Pretty Good Privacy". 
 ... and GPG, or GnuPG (GNU Privacy Guard), is one of the implementations of the PGP standard, and is a strong alternative to the official PGP software.
-In other words, GPG is PGP. I'll be using them 
+In other words, GPG is PGP. 
 
 #### What is it? 
-First, let me tell you what it is *not*. 
-
 Imagine you have a box, and you want to put something private in it. Something that only a few selected people would be allowed to see. If you would want to send that box to someone, you'd probably add a lock to it. But in order for the people you trust to open that box, you'd need to send its key along with it, perhaps by taping it under the box. 
 
 If someone steals the box, it won't be long until they could open and access its content.
@@ -30,7 +28,7 @@ First, let me tell you what 'traditional' emails *don't* do.
 Traditional emails don't guarantee the sender's identity and can't completely detect whether an email is really sent by the sender it claims to be (heard of phishing emails?). Traditional emails also travel and are stored in plain text.  This means that anyone managing a server or the network can read (and possibly modify) the email. The recipient can't be completely sure the content of the email they receive hasn't been modified along the way. It's quite analogous to sending a postcard by postmail. Any information written on it should be regarded as publicaly accessible, and possibly modified. 
 
 PGP/GPG solves a lot of these issues. It is useful for privacy, security and authenticity. Privacy and security, because you can prevent anyone from accessing content you don't want to share. This doesn't only apply to highly critical businesses, journalists and activists, but also to people like you & I. Authenticity, because when you 'lock' (aka. encrypt) your data with PGP, it digitally signs that information. So, if an email recipient is not sure about the identity of its sender, they can use a digital signature in conjunction with PGP to verify their identity.
- 
+
 
 #### So it's just *pretty good* privacy?
 
@@ -43,4 +41,4 @@ However, it’s not really difficult to get started with, and when you are up an
 
 ### How can you install GPG.
 
-The Free Software Foundation has made a pretty clear [step by step guide](https://emailselfdefense.fsf.org/en/index.html) to make your keys and test out your encrypted email.
+While a few email provider already make it easy for their users to generate their own GPG key, the Free Software Foundation has made a pretty clear [step by step guide](https://emailselfdefense.fsf.org/en/index.html) to make your keys and test out your encrypted email.
